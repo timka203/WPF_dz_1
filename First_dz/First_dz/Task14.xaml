@@ -1,0 +1,17 @@
+﻿<Window x:Class="First_dz.Task14"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:First_dz"
+        mc:Ignorable="d"
+        Title="Task14" Height="150" Width="300">
+    <WrapPanel ItemHeight="30" ItemWidth="80" Orientation="Horizontal">
+        <Button Content="1" />
+        <Button Content="2" />
+        <Button Content="3"/>
+        <Button Content="4"/>
+        <Button Content="5"/>
+        <Button Content="6"  />
+    </WrapPanel>
+</Window>
